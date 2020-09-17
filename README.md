@@ -1,5 +1,5 @@
 # cyberzoo
-The original Cyberzoo, recreated from its old home of http://www.motivesoft.demon.co.uk/cyberzoo/, which now exists only in archive form.
+The original Cyberzoo, recreated from its old home of http://www.motivesoft.demon.co.uk/cyberzoo/, which now exists mostly in archive form.
 
 The Cyberzoo site was first created in 1997 or thereabouts as a tribute and support page for all things related to virtual pets, initially Tamagotchis and Nano Babies, and as a sister site to the Internet newsgroup, alt.toys.virtual-pets.
 
